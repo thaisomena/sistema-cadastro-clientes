@@ -19,3 +19,7 @@ Este projeto foi desenvolvido com o objetivo de praticar lógica de programaçã
 ## Como executar
 1. Abrir o projeto no Visual Studio
 2. Compilar e executar (F5)
+
+## Demonstração
+
+![Sistema funcionando](sistema.gif.gif)
